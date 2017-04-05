@@ -1,4 +1,6 @@
-# postgresql
+# This cookbook can be used to install postgresql on any flavour of linux
 
-TODO: Enter the cookbook description here.
+TODO: 
+
+Almost everything.
 
